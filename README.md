@@ -2,10 +2,9 @@
 
 > Turning the phone already charging on your nightstand into an early-warning system for the building around it.
 
-**Kavach** (कवच, "shield") is a crowdsourced structural-health-monitoring system for India, built for **Samsung Solve for Tomorrow 2026**.
+**Kavach** (कवच, "shield") is a crowdsourced structural-health-monitoring system for India.
 
 ![Status](https://img.shields.io/badge/status-early%20development-yellow)
-![Hackathon](https://img.shields.io/badge/Samsung%20Solve%20for%20Tomorrow-2026-blue)
 
 ## The problem
 
