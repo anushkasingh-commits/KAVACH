@@ -1,0 +1,26 @@
+# Android / Kotlin
+*.iml
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.db
+.env
+
+# Dashboard / general
+node_modules/
+.vscode/
+*.log
